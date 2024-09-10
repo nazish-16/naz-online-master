@@ -9,7 +9,7 @@ export const navItems = [
     {
       id: 1,
       title: "About me",
-      description: " My passion for coding started when I was in high school, and since then, I've been immersed in the world of web development, creating dynamic and responsive web applications.",
+      description: " I am a driven and dedicated full stack developer currently advancing my knowledge and skills at Deccan Engineering College. My technical expertise spans both front-end and back-end development, allowing me to create robust, scalable, and intuitive web applications. With a deep understanding of modern technologies, I thrive in environments that challenge me to innovate and push the boundaries of what’s possible in web development.",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
       titleClassName: "justify-end",
