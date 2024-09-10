@@ -100,17 +100,17 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Developer",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
-      className: "md:col-span-2",
-      thumbnail: "https://oratorbot.xyz/img/logo-nobg.png",
-    },
-    {
-      id: 2,
       title: "Frontend Developer Intern",
       desc: "Developed and maintained user-facing features using modern frontend technologies.",
       className: "md:col-span-2",
       thumbnail: "https://sofi.gg/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FViolet.44349800.png&w=128&q=75",
+    },
+    {
+      id: 2,
+      title: "Frontend Developer",
+      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      className: "md:col-span-2",
+      thumbnail: "https://oratorbot.xyz/img/logo-nobg.png",
     },
     {
       id: 3,
